@@ -1,0 +1,80 @@
+/* css/styles.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.navbar-brand img {
+    max-height: 40px;
+}
+
+.form-control {
+    margin-bottom: 10px;
+}
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2em;
+    width: 500px;
+}
+
+.container1{
+    display: flex;
+    justify-content: space-around;
+    margin: 3em;
+    gap: 3;
+    align-items: center;
+}
+
+.nav-link{
+    margin-left: 15px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+
+div .carousel-inner{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+div img{
+    width: 50px;
+}
+.d-flex{
+    display: flex;
+    justify-content: center;
+}
+.form-control2{
+    width: 155px;
+}
+
+.btn{
+    width: 155px;
+}
+
+.btn2{
+    border-radius: 25px;
+    margin-right: 10px;
+}
+
+.logo1{
+    width: 45px;
+    height: 45px;
+    margin-left: 10px;
+}
+
+.testimonial{
+    display: flex;
+    justify-content: center;
+}
